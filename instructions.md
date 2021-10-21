@@ -1,5 +1,6 @@
 1. W pliku `index.html` pod tagiem `<body>` dodaj kod znajdujący się poniżej:
 ```
+    <div class="box-of-star3">
     <div class="box-of-star2">
         <div class="star star-position5"></div>
         <div class="star star-position6"></div>
