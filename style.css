@@ -114,13 +114,11 @@
     -webkit-animation: astronaut 5s linear infinite;
 }
 .schoolbag{
-    width: 200px;
-    height: 150px;
-    position: absolute;
-    z-index: 10;
+    width: 100px;
+    z-index: 1;
+    background-color: #94b7ca;
     top: calc(50% - 75px);
     left: calc(50% - 50px);
-    background-color: red;
     border-radius: 50px 50px 0 0 / 30px 30px 0 0;
 }
 .head{
